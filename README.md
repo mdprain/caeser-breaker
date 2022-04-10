@@ -1,5 +1,5 @@
 # Caeser Breaker
-A simple Python script to break a Caeser cipher, using a wordlist from https://github.com/powerlanguage/word-lists
+A simple Python script to break a Caeser cipher of any shift, using a wordlist from https://github.com/powerlanguage/word-lists
 
 (Nothing really fancy, I know. But I figured I should add another public item to my GitHub account.)
 
