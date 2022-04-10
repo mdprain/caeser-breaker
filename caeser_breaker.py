@@ -5,9 +5,6 @@ provides the decoded message.
 @author: MDP
 """
 
-from collections import Counter
-from operator import indexOf
-
 letters = "abcdefghijklmnopqrstuvwxyz"
 upper_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 totalLetters = 26
